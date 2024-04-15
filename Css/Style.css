@@ -8,6 +8,8 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    animation: animate 2s linear infinite;
+    -webkit-animation: animate 2s linear infinite;
 }
 .Inicio{
     position: relative;
