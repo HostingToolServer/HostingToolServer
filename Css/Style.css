@@ -461,6 +461,7 @@ header a{
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(127, 195, 255);
+    font-size: 30px;
 }
 .Eslogan{
     background: linear-gradient(to right,rgba(255, 115, 0, 0.493) 25%,rgba(0, 0, 0, 0.466) 75%);
